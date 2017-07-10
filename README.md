@@ -1,7 +1,7 @@
 # Author
 ![@suhitk1](https://avatars1.githubusercontent.com/u/20357099?v=3&u=4c1555ae5490d2155959e65c2dd930e782f1c703&s=400)
 
-Created by Rafase282
+Created by suhitk1
 
 [Github](https://github.com/suhitk1) | [FreeCodeCamp](http://www.freecodecamp.com/suhitk1) | [CodePen](http://codepen.io/suhitk1/) | [E-Mail](mailto:suhit.kmr1@gmail.com)
 
