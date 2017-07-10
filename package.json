@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rafase282/URL-Shortener.git"
+    "url": "git+https://github.com/suhitk1/URL-Shortener-Microservice.git"
   },
   "keywords": [
     "R282",
     "url-shortener",
     "node"
   ],
-  "author": "Rafael (Rafase282) Rodriguez",
+  "author": "Suhit (suhitk1) Kumar",
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/Rafase282/URL-Shortener/issues"
+    "url": "https://github.com/suhitk1/URL-Shortener-Microservice/issues"
   },
-  "homepage": "https://github.com/Rafase282/URL-Shortener#readme",
+  "homepage": "https://github.com/suhitk1/URL-Shortener-Microservice#readme",
   "dependencies": {
     "dotenv": "^1.2.0",
     "express": "^4.13.3",
